@@ -1,0 +1,25 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>audio video</title>
+    <style>
+
+        video{
+            width: 300px;
+        }
+    </style>
+</head>
+<body>
+
+    <h3>Audio player</h3>
+    <audio src="sample.mp3" controls>
+    </audio>
+<br>
+    
+<h3>video player</h3>
+<video src="sample-5s.mp4" controls>
+    </video>
+</body>
+</html>
