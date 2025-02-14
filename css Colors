@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html>
+        <head>
+                <title>CSS COLORS</title>
+                <style>
+                        h1{
+                                background-color: red;
+                                color: white;
+                        }
+                        .h2{
+                                color: white;
+                                background-color: #1E90FF;
+                        }
+                        .h3{
+                                color: white;
+                                background-color: rgb(34,139,34);
+                        }
+                        .h4{
+                                color:white;
+                                background-color: rgba(255,99,71,0.7);
+                        }
+                        .h5{
+                                color: white;
+                                background-color: hsl(240,100%,50%);
+                        }
+                        .h6{
+                                color: white;
+                                background-color: hsla(120,60%,70%,0.6);
+                        }
+                </style>
+</head>
+        <body>
+                <h1>color:red</h1>
+                <h1 class="h2">HEX Value: #1W90FF</h1>
+                <h1 class="h3">RGB Value: rgb(34,139,34)</h1>
+                <h1 class="h4">RGBA Value: rgba(255,99.71,0.7)</h1>
+                <h1 class="h5">HSL Value: hsl(240,100%,50%)</h1>
+                <h1 class="h6">HSLA Value:(120,60%.70%,0.6)</h1>
+            </body>
+            </html>
